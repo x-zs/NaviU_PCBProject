@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=RXN_UP Pin=U3-71
+Removed Pin From Net: NetName=RXP_UP Pin=U3-72
+Removed Pin From Net: NetName=RXN_UP Pin=UPPORT1-5
+Removed Pin From Net: NetName=RXP_UP Pin=UPPORT1-6
+Added Pin To Net: NetName=RX_UP_N Pin=U3-71
+Added Pin To Net: NetName=RX_UP_N Pin=UPPORT1-5
+Added Net: Name=RX_UP_N
+Added Pin To Net: NetName=RX_UP_P Pin=U3-72
+Added Pin To Net: NetName=RX_UP_P Pin=UPPORT1-6
+Added Net: Name=RX_UP_P
+Added Differential Pair: Name=RX_UP

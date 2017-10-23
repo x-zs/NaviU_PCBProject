@@ -1,0 +1,4 @@
+Added Component: Designator=L1(0805FB)
+Added Pin To Net: NetName=SW Pin=L1-1
+Added Pin To Net: NetName=DVDD12_1 Pin=L1-2
+Added Member To Class: ClassName=GL3523 Member=Component L1 L

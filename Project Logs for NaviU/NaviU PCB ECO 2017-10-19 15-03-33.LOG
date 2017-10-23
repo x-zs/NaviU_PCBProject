@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=RXP_UP Pin=UPPORT1-5
+Removed Pin From Net: NetName=RXN_UP Pin=UPPORT1-6
+Change Component DesignItemId : Designator=UPPORT1 Old DesignItemId=U New DesignItemId=USB3.0
+Added Pin To Net: NetName=RXN_UP Pin=UPPORT1-5
+Added Pin To Net: NetName=RXP_UP Pin=UPPORT1-6

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=RX_UP_N Pin=UPPORT1-5
+Removed Pin From Net: NetName=RX_UP_P Pin=UPPORT1-6
+Removed Pin From Net: NetName=TXNE_UP Pin=UPPORT1-8
+Removed Pin From Net: NetName=TXPE_UP Pin=UPPORT1-9
+Change Component DesignItemId : Designator=UPPORT1 Old DesignItemId= New DesignItemId=USB3.0
+Change Component Library : Designator=UPPORT1 Old Library=Schlib_20130601.s New Library=Schlib_20130601.schlib
+Added Pin To Net: NetName=TXNE_UP Pin=UPPORT1-5
+Added Pin To Net: NetName=TXPE_UP Pin=UPPORT1-6
+Added Pin To Net: NetName=RX_UP_N Pin=UPPORT1-8
+Added Pin To Net: NetName=RX_UP_P Pin=UPPORT1-9
+Added Room: Name=CP2102
+Added Room: Name=GL3523
+Added Room: Name=UM220 NEO-M8

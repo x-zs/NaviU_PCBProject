@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=RX_UP_N Pin=U4-3
+Added Pin To Net: NetName=RX_UP_P Pin=U4-4
+Change Net Name : Old Net Name=TXN_UP New Net Name=TX_UP_N
+Change Net Name : Old Net Name=TXP_UP New Net Name=TX_UP_P
+Added Differential Pair: Name=TX_UP

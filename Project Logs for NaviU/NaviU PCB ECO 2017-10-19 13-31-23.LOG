@@ -1,0 +1,11 @@
+Added Component: Designator=UPPORT1(USB3.0-G)
+Added Pin To Net: NetName=NetFB1_2 Pin=UPPORT1-1
+Added Pin To Net: NetName=DM0 Pin=UPPORT1-2
+Added Pin To Net: NetName=DP0 Pin=UPPORT1-3
+Added Pin To Net: NetName=GND Pin=UPPORT1-4
+Added Pin To Net: NetName=RXN_UP Pin=UPPORT1-5
+Added Pin To Net: NetName=RXP_UP Pin=UPPORT1-6
+Added Pin To Net: NetName=GND Pin=UPPORT1-7
+Added Pin To Net: NetName=TXNE_UP Pin=UPPORT1-8
+Added Pin To Net: NetName=TXPE_UP Pin=UPPORT1-9
+Added Member To Class: ClassName=GL3523 Member=Component UPPORT1 USB3.0

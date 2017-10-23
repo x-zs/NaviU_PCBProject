@@ -1,0 +1,30 @@
+Added Component: Designator=C39(0402CAPC1005X06N)
+Added Component: Designator=C40(0402CAPC1005X06N)
+Added Component: Designator=DOWN1(USB-UEA11123-4HK1-4H)
+Added Component: Designator=FB4(0805FB)
+Added Pin To Net: NetName=TXPE_DS2 Pin=C39-2
+Added Pin To Net: NetName=TXNE_DS2 Pin=C40-2
+Added Pin To Net: NetName=DM2 Pin=DOWN1-2
+Added Pin To Net: NetName=DP2 Pin=DOWN1-3
+Added Pin To Net: NetName=GND Pin=DOWN1-4
+Added Pin To Net: NetName=RXN_DS2 Pin=DOWN1-5
+Added Pin To Net: NetName=RXP_DS2 Pin=DOWN1-6
+Added Pin To Net: NetName=GND Pin=DOWN1-7
+Added Pin To Net: NetName=TXNE_DS2 Pin=DOWN1-8
+Added Pin To Net: NetName=TXPE_DS2 Pin=DOWN1-9
+Added Pin To Net: NetName=VBUS Pin=FB4-1
+Added Pin To Net: NetName=RXN_DS2 Pin=U3-23
+Added Pin To Net: NetName=RXP_DS2 Pin=U3-24
+Added Pin To Net: NetName=NetDOWN1_1 Pin=DOWN1-1
+Added Pin To Net: NetName=NetDOWN1_1 Pin=FB4-2
+Added Net: Name=NetDOWN1_1
+Added Pin To Net: NetName=TX_DS2_N Pin=C40-1
+Added Pin To Net: NetName=TX_DS2_N Pin=U3-20
+Added Net: Name=TX_DS2_N
+Added Pin To Net: NetName=TX_DS2_P Pin=C39-1
+Added Pin To Net: NetName=TX_DS2_P Pin=U3-21
+Added Net: Name=TX_DS2_P
+Added Member To Class: ClassName=GL3523 Member=Component C39 C
+Added Member To Class: ClassName=GL3523 Member=Component C40 C
+Added Member To Class: ClassName=GL3523 Member=Component DOWN1 USB3.0
+Added Member To Class: ClassName=GL3523 Member=Component FB4 FB
