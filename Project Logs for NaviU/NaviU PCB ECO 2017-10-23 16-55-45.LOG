@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=TXNE_UP Pin=U4-3
+Removed Pin From Net: NetName=TXPE_UP Pin=U4-4
+Added Pin To Net: NetName=TXPE_UP Pin=U4-3
+Added Pin To Net: NetName=TXNE_UP Pin=U4-4

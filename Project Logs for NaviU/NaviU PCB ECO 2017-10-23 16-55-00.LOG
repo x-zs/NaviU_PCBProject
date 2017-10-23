@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=RX_UP_N Pin=U4-1
+Removed Pin From Net: NetName=RX_UP_P Pin=U4-2
+Added Pin To Net: NetName=RX_UP_P Pin=U4-1
+Added Pin To Net: NetName=RX_UP_N Pin=U4-2
+Added Room: Name=CP2102
+Added Room: Name=GL3523
+Added Room: Name=UM220 NEO-M8
